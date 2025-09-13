@@ -1,4 +1,4 @@
-# Ethics & Law Orientation (Week 1)
+# Ethics & Law Orientation (Week 2)
 
 ## Principles Summary
 Notice/consent is being transparent with how the users data, and what data will be used if the user agrees. Purpose limitation is limiting the purpose in your notice to only what is necessary and staying true to your word, no outside uses of your notice. Data minimization is when you only gather the most necessary information and get rid of it as soon as possible, you want to make it so only the smallest amount of data can be compromised. Proportionality is when monitoring is done the in the least intrusive way possible and only if necessary in managing risk.
