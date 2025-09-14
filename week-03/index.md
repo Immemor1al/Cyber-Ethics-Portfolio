@@ -13,3 +13,7 @@ For now until I get an answer, I have no clue what to do here. With the wording 
 
 
 ## Evidence Links:
+
+[CYBR2100_CaseBrief_W03_Bennett,Tommy.docx](https://github.com/user-attachments/files/22318148/CYBR2100_CaseBrief_W03_Bennett.Tommy.docx) 
+[CYBR2100_Reflection_W03_[Bennett,Tommy].docx](https://github.com/user-attachments/files/22318154/CYBR2100_Reflection_W03_.Bennett.Tommy.docx)
+
